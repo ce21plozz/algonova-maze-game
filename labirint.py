@@ -1,4 +1,5 @@
 # Create your game in this file!
+#test bla bla, keknya perubahan terlalu kecil
 from pygame import *
 import time as waktu
 
